@@ -1,0 +1,16 @@
+2023-11-24 20:52:50: SQLSTATE[HY000] [1044] Access denied for user 'public'@'%' to database 'jrcsaltder'
+2023-11-24 20:52:50: SQLSTATE[HY000] [1044] Access denied for user 'public'@'%' to database 'jrcsaltder'
+2023-11-24 20:52:50: SQLSTATE[HY000] [1044] Access denied for user 'public'@'%' to database 'jrcsaltder'
+2023-11-24 20:52:50: SQLSTATE[HY000] [1044] Access denied for user 'public'@'%' to database 'jrcsaltder'
+2023-11-24 20:52:51: SQLSTATE[HY000] [1044] Access denied for user 'public'@'%' to database 'jrcsaltder'
+2023-11-24 20:52:51: SQLSTATE[HY000] [1044] Access denied for user 'public'@'%' to database 'jrcsaltder'
+2023-11-24 21:26:09: SQLSTATE[HY000] [1044] Access denied for user 'public'@'%' to database 'jrcsaltder'
+2023-11-24 21:26:25: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.tfitle' in 'field list'
+2023-11-24 21:26:26: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.tfitle' in 'field list'
+2023-11-24 21:26:26: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.tfitle' in 'field list'
+2023-11-24 21:26:27: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.tfitle' in 'field list'
+2023-11-24 21:33:16: Unknown error. No message set.
+2023-11-24 21:33:16: Unknown error. No message set.
+2023-11-24 21:33:16: Unknown error. No message set.
+2023-11-24 21:33:17: Unknown error. No message set.
+2023-11-24 21:43:53: No middleware found for key: something

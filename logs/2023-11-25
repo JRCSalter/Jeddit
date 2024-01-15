@@ -1,0 +1,62 @@
+2023-11-25 15:25:51: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.contdent' in 'field list'
+2023-11-25 15:28:20: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.cdontent' in 'field list'
+2023-11-25 15:36:29: Unknown file:Unknown line. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 15:37:41: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 15:37:41: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 15:42:11: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. getAllForPost. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 15:42:12: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. getAllForPost. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 15:42:12: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. getAllForPost. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 15:42:12: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. getAllForPost. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 15:42:12: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. getAllForPost. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 15:49:15: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'/mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Log.php:73
+/mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:90
+/mnt/03-main/documents/10-computing/www/html/jrcsalter/JRCS/Comment.php:74
+/mnt/03-main/documents/10-computing/www/html/jrcsalter/views/post.view.php:11
+/mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/functions.php:63
+/mnt/03-main/documents/10-computing/www/html/jrcsalter/controllers/post.php:5
+/mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Router.php:117
+/mnt/03-main/documents/10-computing/www/html/jrcsalter/public/index.php:39
+
+2023-11-25 15:49:42: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'   /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Log.php:73
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:90
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/JRCS/Comment.php:74
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/views/post.view.php:11
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/functions.php:63
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/controllers/post.php:5
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Router.php:117
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/public/index.php:39
+
+2023-11-25 21:02:50: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 21:02:50: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 21:02:50: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 21:02:50: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 21:02:51: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 21:02:51: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 21:02:51: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 21:02:51: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 21:02:51: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 21:02:51: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 21:02:51: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 21:03:15: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'   /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Log.php:75
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:90
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/JRCS/Comment.php:74
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/views/post.view.php:11
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/functions.php:63
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/controllers/post.php:5
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Router.php:117
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/public/index.php:39
+
+2023-11-25 21:03:16: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'   /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Log.php:75
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:90
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/JRCS/Comment.php:74
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/views/post.view.php:11
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/functions.php:63
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/controllers/post.php:5
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Router.php:117
+   /mnt/03-main/documents/10-computing/www/html/jrcsalter/public/index.php:39
+
+2023-11-25 21:03:41: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 21:03:41: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 21:03:41: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 21:03:41: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'
+2023-11-25 21:03:42: /mnt/03-main/documents/10-computing/www/html/jrcsalter/Core/Database.php:87. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.condtent' in 'field list'

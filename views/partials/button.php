@@ -1,0 +1,1 @@
+<button type="<?= strtolower($type) ?>"><?= $type ?></button>
